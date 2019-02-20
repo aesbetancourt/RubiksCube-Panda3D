@@ -1,4 +1,4 @@
-#Codigo Hecho por los Integrantes:
+#Code made by::
 #Luis Sanchez --> Ci: 26.781.211
 #Juan Zabala --> Ci: 26.900.042
 #Alejandro Sanchez --> Ci: 27.242.594
