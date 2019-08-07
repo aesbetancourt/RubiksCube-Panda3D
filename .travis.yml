@@ -1,6 +1,0 @@
-language: python
-cache: pip
-install:
-  - pip install panda3d
-script:
-  - python cubo.py
