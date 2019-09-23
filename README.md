@@ -6,7 +6,7 @@
 ```
 pip install panda3d
 ```
-2. Clone this repo to your own computer
+2. Clone this repo to your own computer.
 
 3. Run start.bat or open cmd and write the following:
 ```
